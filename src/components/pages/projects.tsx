@@ -72,13 +72,13 @@ const Projects = ({ className }: { className?: string }) => {
                         <img src={IMAGES.keyboardOnlyShowCase} alt='Keyboard Only showcase image' width={400} height={400} />
                     </div>
                     <div className="grid grid-cols-1 content-end space-y-1 pointer-events-none z-10 h-full transform-gpu gap-1 p-6 transition-all duration-300 group-hover:-translate-y-10">
-                        <Avatar className="w-20 h-20 border p-2  dark:hidden block">
+                        <Avatar className="w-20 h-20 border p-2 dark:hidden block">
                             <AvatarImage src={IMAGES.keyboardOnlyDarkLogo} />
-                            <AvatarFallback>Li</AvatarFallback>
+                            <AvatarFallback>KO</AvatarFallback>
                         </Avatar>
                         <Avatar className="w-20 h-20 border p-2 dark:block hidden">
                             <AvatarImage src={IMAGES.keyboardOnlyLightLogo} />
-                            <AvatarFallback>Li</AvatarFallback>
+                            <AvatarFallback>KO</AvatarFallback>
                         </Avatar>
                         <h3 className="text-xl font-semibold text-neutral-700 dark:text-neutral-300">
                             Keyboard Only
