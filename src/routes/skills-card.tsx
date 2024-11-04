@@ -63,7 +63,7 @@ const SkillsCard = ({ className }: { className?: string }) => {
                 )}
             >
                 <Button variant="secondary" asChild size="sm" className="pointer-events-auto">
-                    <a href={"/me/skills"}>
+                    <a href={"/skills"}>
                         <span className="w-2 h-2 bg-green-500 rounded shadow-sm border border-green-500 shadow-green-400"></span>
                         Tech stack
                         <ArrowRightIcon className="ml-2 h-4 w-4" />

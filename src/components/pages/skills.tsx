@@ -19,7 +19,7 @@ const Skills = ({ className }: { className?: string }) => {
         <div className="w-full relative h-screen place-content-center">
             <div className="top-3 left-3 absolute flex items-center space-x-1">
                 <Button variant={'outline'} size={'icon'} asChild>
-                    <a href={`/me/`}>
+                    <a href={`/`}>
                         <Home className="h-4 w-4" />
                     </a>
                 </Button>

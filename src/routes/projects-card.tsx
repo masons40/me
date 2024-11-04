@@ -28,7 +28,7 @@ const ProjectsCard = ({ className }: { className?: string }) => {
                 )}
             >
                 <Button variant="secondary" asChild size="sm" className="pointer-events-auto">
-                    <a href={"/me/projects"}>
+                    <a href={"/projects"}>
                         <span className="w-2 h-2 bg-blue-500 rounded shadow-sm border border-blue-500 shadow-blue-400"></span>
                         Projects
                         <ArrowRightIcon className="ml-2 h-4 w-4" />

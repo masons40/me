@@ -11,19 +11,19 @@ import Home from './routes/home.tsx';
 
 const router = createBrowserRouter([
   {
-    path: "/me",
+    path: "/",
     element: <Home />,
   },
   {
-    path: "me/skills",
+    path: "skills",
     element: <Skills />,
   },
   {
-    path: "me/projects",
+    path: "projects",
     element: <Projects />,
   },
   {
-    path: "me/travel",
+    path: "travel",
     element: <Travel />,
   },
 ]);

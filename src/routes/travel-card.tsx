@@ -29,7 +29,7 @@ const TravelCard = ({ className }: { className?: string }) => {
                 )}
             >
                 <Button variant="secondary" asChild size="sm" className="pointer-events-auto">
-                    <a href={"/me/travel"}>
+                    <a href={"/travel"}>
                         <span className="w-2 h-2 bg-purple-600 rounded shadow-sm border border-purple-600 shadow-purple-400"></span>
                         Travel
                         <ArrowRightIcon className="ml-2 h-4 w-4" />
