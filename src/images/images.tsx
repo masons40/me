@@ -1,10 +1,10 @@
 const IMAGES = {
-    image1: new URL('./M.png', import.meta.url).href,
-    liinterLogo: new URL('./logo.png', import.meta.url).href,
-    liinter: new URL('./LiinterPage.png', import.meta.url).href,
-    keyboardOnlyDarkLogo: new URL('./onlyKeyboardLogoDark.png', import.meta.url).href,
-    keyboardOnlyLightLogo: new URL('./onlyKeyboardLogoWhite.png', import.meta.url).href,
-    keyboardOnlyShowCase: new URL('./dark&LightKeyboardOnly.png', import.meta.url).href,
+    image1: new URL('../../publicpublicpublic/M.png', import.meta.url).href,
+    liinterLogo: new URL('../../public/logo.png', import.meta.url).href,
+    liinter: new URL('../../public/LiinterPage.png', import.meta.url).href,
+    keyboardOnlyDarkLogo: new URL('../../public/onlyKeyboardLogoDark.png', import.meta.url).href,
+    keyboardOnlyLightLogo: new URL('../../public/onlyKeyboardLogoWhite.png', import.meta.url).href,
+    keyboardOnlyShowCase: new URL('../../public/dark&LightKeyboardOnly.png', import.meta.url).href,
 
 }
 
