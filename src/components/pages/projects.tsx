@@ -94,7 +94,7 @@ const Projects = ({ className }: { className?: string }) => {
                         )}
                     >
                         <Button variant="secondary" asChild size="sm" className="pointer-events-auto">
-                            <a href={"https://www.liinter.com"}>
+                            <a href={"https://keyboard-only.vercel.app/"}>
                                 <span className="w-2 h-2 bg-[#f9cb11] rounded border-[#f9cb11] shadow-[#f9cb11] shadow-sm border"></span>
                                 Keyboard Only
                                 <ArrowRightIcon className="ml-2 h-4 w-4" />
