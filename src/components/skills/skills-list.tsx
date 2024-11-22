@@ -65,8 +65,8 @@ export const skills: Skill[] = [
     {
         name: "Supabase",
         logo: <SupabaseSvg />,
-        websiteUrl: "https://www.postgresql.org",
-        description: "PostgreSQL is a powerful, open-source object-relational database system known for its extensibility, stability, and standards compliance. It’s widely used for handling complex queries and large datasets."
+        websiteUrl: "https://supabase.com/",
+        description: "Supabase is an open-source backend-as-a-service that offers a PostgreSQL database, real-time updates, authentication, and file storage, making it easy to build modern web and mobile apps."
     },
     {
         name: "HTML",
