@@ -22,7 +22,7 @@ export const Travel = ({ className }: { className?: string }) => {
         { name: "Switzerland", visits: 1, ISOcode: "CH" },
         { name: "Austria", visits: 1, ISOcode: "AT" },
         { name: "Denmark", visits: 1, ISOcode: "DK" },
-        { name: "Belguim", visits: 1, ISOcode: "BE" },
+        { name: "Belgium", visits: 1, ISOcode: "BE" },
         { name: "Singapore", visits: 2, ISOcode: "SG" },
         { name: "Vietnam", visits: 2, ISOcode: "VN" },
         { name: "Japan", visits: 2, ISOcode: "JP" },
